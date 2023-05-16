@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.card {
+  margin-top: 20px;
+  width: 250px;
+  height: 380px;
+  border-radius: 10px;
+}
+
+.number {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  height: 130px;
+  margin-top: 30px;
+}
+
+.bottom-suit {
+  transform: rotate(3.142rad);
+}
+
+.suit-color {
+  color: red;
+}
